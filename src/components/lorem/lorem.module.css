@@ -1,0 +1,15 @@
+.Lorem{
+  width: 1000px;
+  height: 200px;
+  margin-top: 50px;
+  display: flex;
+  justify-self: center;
+}
+.Lorem_text{
+  margin: 0 auto;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  display: flex;
+  text-align: center;
+  color: white;
+}

@@ -1,0 +1,47 @@
+
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+}
+
+.header{
+  margin: 0 auto;
+  width: 1440px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 25px;
+}
+.reactIcon{
+  color: white;
+}
+
+
+.header ul{
+  display: flex;
+  gap: 30px;
+  list-style: none;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+}
+
+.link{
+  text-decoration: none;
+  color: white;
+}
+.link:hover{
+  text-decoration: underline;
+  color: gray  ;
+}
+.cart img {
+  width: 30px;
+  height: 30px;
+}
+.cartIcon:hover{
+  color: #E06733;
+} 
+
+
